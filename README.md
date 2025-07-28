@@ -1,16 +1,7 @@
-# Hi there, I'm Alex! 👋
+# Hi, I’m Alex 👋
 
-I'm a passionate junior frontend web developer with a growing interest in backend technologies. Currently diving into Ruby and exploring Ruby on Rails, with plans to tackle Node.js next. I also know Python and I'm a student of Geological Science at UCM (Universidad Complutense of Madrid).
+I’m a **web developer** with a degree in **Geological Sciences (UCM)**. I’ve been into web development for a while, and during my geology degree I discovered the world of GIS and fell in love with it. Now I’m exploring how to bring both passions together.
 
-### What I'm up to:
-- 📚 **Learning:** Ruby & Ruby on Rails
-- 🔬 **Studying:** Geology (final year)
+Most of what you’ll find here are learning projects, experiments and ideas I’m turning into code. I’m especially interested in frontend development and curious about how to apply it to **WebGIS**.
 
-### My Passion:
-I love to create and am excited about hopefully transforming my hobby into a full-time job in web development or another programming area.
-
-Feel free to check out my repositories and follow along as I continue to learn and build!
-
-
-
-Thanks for visiting!
+If you’re into web, maps or curious about how they can work together, you’ll probably enjoy what I’m building here.
